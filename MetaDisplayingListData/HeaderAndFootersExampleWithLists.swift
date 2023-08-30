@@ -17,7 +17,9 @@ struct HeaderAndFootersExampleWithLists: View {
             }
             
             ForEach(elements, id: \.self) {element in
-                 Text(element)
+                NavigationLink(destination: DetailView()) {
+                    Text(element)
+                }
             }
             
             Section(footer: Text("More Information")) {

@@ -21,6 +21,7 @@
 		748867B72A9FB53500F45F77 /* InDepthSVHardCoded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867B62A9FB53500F45F77 /* InDepthSVHardCoded.swift */; };
 		748867B92A9FB65B00F45F77 /* DynamicListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867B82A9FB65B00F45F77 /* DynamicListExample.swift */; };
 		748867BB2A9FC27200F45F77 /* HeaderAndFootersExampleWithLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867BA2A9FC27200F45F77 /* HeaderAndFootersExampleWithLists.swift */; };
+		748867BD2A9FC48200F45F77 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867BC2A9FC48200F45F77 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		748867B62A9FB53500F45F77 /* InDepthSVHardCoded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InDepthSVHardCoded.swift; sourceTree = "<group>"; };
 		748867B82A9FB65B00F45F77 /* DynamicListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicListExample.swift; sourceTree = "<group>"; };
 		748867BA2A9FC27200F45F77 /* HeaderAndFootersExampleWithLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderAndFootersExampleWithLists.swift; sourceTree = "<group>"; };
+		748867BC2A9FC48200F45F77 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				748867B62A9FB53500F45F77 /* InDepthSVHardCoded.swift */,
 				748867B82A9FB65B00F45F77 /* DynamicListExample.swift */,
 				748867BA2A9FC27200F45F77 /* HeaderAndFootersExampleWithLists.swift */,
+				748867BC2A9FC48200F45F77 /* DetailView.swift */,
 				7488679E2A9F931000F45F77 /* Assets.xcassets */,
 				748867A02A9F931000F45F77 /* Preview Content */,
 			);
@@ -174,6 +177,7 @@
 				7488679B2A9F930F00F45F77 /* MetaDisplayingListDataApp.swift in Sources */,
 				748867B52A9FB2C200F45F77 /* InDepthHardCodingElementsExample.swift in Sources */,
 				748867BB2A9FC27200F45F77 /* HeaderAndFootersExampleWithLists.swift in Sources */,
+				748867BD2A9FC48200F45F77 /* DetailView.swift in Sources */,
 				748867B12A9FA2F200F45F77 /* ListsExampleWithData.swift in Sources */,
 				748867A92A9F9C2100F45F77 /* Notes.swift in Sources */,
 				748867AF2A9FA22000F45F77 /* SVExampleWithData.swift in Sources */,
