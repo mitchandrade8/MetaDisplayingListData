@@ -24,7 +24,8 @@ struct HeaderAndFootersExampleWithLists: View {
                 Text("Contact us as (212) 555 3231")
             }
         }
-        .listStyle(PlainListStyle())
+        .scrollContentBackground(.hidden)
+//        .listStyle(PlainListStyle())
         .padding()
     }
 }
