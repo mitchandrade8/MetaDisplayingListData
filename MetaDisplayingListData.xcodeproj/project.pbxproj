@@ -14,6 +14,9 @@
 		748867A92A9F9C2100F45F77 /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867A82A9F9C2100F45F77 /* Notes.swift */; };
 		748867AB2A9F9CC500F45F77 /* ScrollViewBasicExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867AA2A9F9CC500F45F77 /* ScrollViewBasicExample.swift */; };
 		748867AD2A9FA0F500F45F77 /* ListBasicExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867AC2A9FA0F500F45F77 /* ListBasicExample.swift */; };
+		748867AF2A9FA22000F45F77 /* SVExampleWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867AE2A9FA22000F45F77 /* SVExampleWithData.swift */; };
+		748867B12A9FA2F200F45F77 /* ListsExampleWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867B02A9FA2F200F45F77 /* ListsExampleWithData.swift */; };
+		748867B32A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867B22A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +28,9 @@
 		748867A82A9F9C2100F45F77 /* Notes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes.swift; sourceTree = "<group>"; };
 		748867AA2A9F9CC500F45F77 /* ScrollViewBasicExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBasicExample.swift; sourceTree = "<group>"; };
 		748867AC2A9FA0F500F45F77 /* ListBasicExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBasicExample.swift; sourceTree = "<group>"; };
+		748867AE2A9FA22000F45F77 /* SVExampleWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SVExampleWithData.swift; sourceTree = "<group>"; };
+		748867B02A9FA2F200F45F77 /* ListsExampleWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListsExampleWithData.swift; sourceTree = "<group>"; };
+		748867B22A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListsExampleButMoreComplex.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				7488679A2A9F930F00F45F77 /* MetaDisplayingListDataApp.swift */,
 				7488679C2A9F930F00F45F77 /* ContentView.swift */,
 				748867AA2A9F9CC500F45F77 /* ScrollViewBasicExample.swift */,
+				748867AE2A9FA22000F45F77 /* SVExampleWithData.swift */,
+				748867B02A9FA2F200F45F77 /* ListsExampleWithData.swift */,
+				748867B22A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift */,
 				748867AC2A9FA0F500F45F77 /* ListBasicExample.swift */,
 				748867A82A9F9C2100F45F77 /* Notes.swift */,
 				7488679E2A9F931000F45F77 /* Assets.xcassets */,
@@ -146,9 +155,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				748867B32A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift in Sources */,
 				7488679D2A9F930F00F45F77 /* ContentView.swift in Sources */,
 				7488679B2A9F930F00F45F77 /* MetaDisplayingListDataApp.swift in Sources */,
+				748867B12A9FA2F200F45F77 /* ListsExampleWithData.swift in Sources */,
 				748867A92A9F9C2100F45F77 /* Notes.swift in Sources */,
+				748867AF2A9FA22000F45F77 /* SVExampleWithData.swift in Sources */,
 				748867AD2A9FA0F500F45F77 /* ListBasicExample.swift in Sources */,
 				748867AB2A9F9CC500F45F77 /* ScrollViewBasicExample.swift in Sources */,
 			);
