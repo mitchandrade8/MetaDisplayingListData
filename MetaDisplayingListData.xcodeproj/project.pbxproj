@@ -17,6 +17,7 @@
 		748867AF2A9FA22000F45F77 /* SVExampleWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867AE2A9FA22000F45F77 /* SVExampleWithData.swift */; };
 		748867B12A9FA2F200F45F77 /* ListsExampleWithData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867B02A9FA2F200F45F77 /* ListsExampleWithData.swift */; };
 		748867B32A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867B22A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift */; };
+		748867B52A9FB2C200F45F77 /* InDepthHardCodingElementsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748867B42A9FB2C200F45F77 /* InDepthHardCodingElementsExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		748867AE2A9FA22000F45F77 /* SVExampleWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SVExampleWithData.swift; sourceTree = "<group>"; };
 		748867B02A9FA2F200F45F77 /* ListsExampleWithData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListsExampleWithData.swift; sourceTree = "<group>"; };
 		748867B22A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListsExampleButMoreComplex.swift; sourceTree = "<group>"; };
+		748867B42A9FB2C200F45F77 /* InDepthHardCodingElementsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InDepthHardCodingElementsExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				748867B22A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift */,
 				748867AC2A9FA0F500F45F77 /* ListBasicExample.swift */,
 				748867A82A9F9C2100F45F77 /* Notes.swift */,
+				748867B42A9FB2C200F45F77 /* InDepthHardCodingElementsExample.swift */,
 				7488679E2A9F931000F45F77 /* Assets.xcassets */,
 				748867A02A9F931000F45F77 /* Preview Content */,
 			);
@@ -158,6 +161,7 @@
 				748867B32A9FAFEB00F45F77 /* ListsExampleButMoreComplex.swift in Sources */,
 				7488679D2A9F930F00F45F77 /* ContentView.swift in Sources */,
 				7488679B2A9F930F00F45F77 /* MetaDisplayingListDataApp.swift in Sources */,
+				748867B52A9FB2C200F45F77 /* InDepthHardCodingElementsExample.swift in Sources */,
 				748867B12A9FA2F200F45F77 /* ListsExampleWithData.swift in Sources */,
 				748867A92A9F9C2100F45F77 /* Notes.swift in Sources */,
 				748867AF2A9FA22000F45F77 /* SVExampleWithData.swift in Sources */,
